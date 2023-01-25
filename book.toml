@@ -1,0 +1,11 @@
+[book]
+authors = ["wanqu.co"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+
+[output.html]
+additional-js = ["custom.js"]
+
+[output.html.print]
+enable = false
